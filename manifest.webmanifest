@@ -1,0 +1,14 @@
+{
+  "name": "FWC Watch Tracker",
+  "short_name": "FWC Tracker",
+  "description": "Track which FIFA World Cup 2026 games you watched.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#080b15",
+  "theme_color": "#0b1020",
+  "orientation": "portrait",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
